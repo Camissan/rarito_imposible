@@ -41,7 +41,7 @@ function setup() {
   }
 
   //crea los objetos partícula
-  for (var j=0;j<400;j=j+1){
+  for (var j=0;j<120;j=j+1){
 
   
   if(frameCount%100===0){
